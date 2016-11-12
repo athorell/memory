@@ -1,0 +1,25 @@
+.Card {
+  background-color: rgba(0, 0, 0, 1);
+  color: rgba(225, 225, 225, 1);
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotateZ(-90deg);
+  transition: all 0.8s ease;
+  cursor: pointer;
+}
+
+.Card-flip {
+  transform: rotateZ(90deg);
+  transition: all 0.8s ease;
+}
+
+.Card-image {
+  width: 180px;
+  height: 180px;
+  transform: rotateZ(-90deg);
+}

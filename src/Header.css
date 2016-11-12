@@ -1,0 +1,9 @@
+.Header {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Helvetica';
+  font-size: 40px;
+  font-weight: bold;
+}

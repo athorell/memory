@@ -1,0 +1,19 @@
+.Button {
+  width: 200px;
+  height: 50px;
+  border: 0;
+  background-color: rgba(0, 0, 0, 1);
+  color: rgba(255, 255, 255, 1);
+  font-family: Helvetica;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.Button:hover {
+  transition: all 0.3s ease;
+  transform: scale(1.03);
+}

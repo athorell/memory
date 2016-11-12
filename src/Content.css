@@ -1,0 +1,34 @@
+.Content {
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  width: 100%;
+  margin: 100px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Content-items {
+  width: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.Content-winning__hide {
+  position: absolute;
+  transform: scale(0);
+}
+
+.Content-winning__show {
+  transition: all 1s ease;
+  transform: scale(1.3);
+}
+
+.Content-winning__text {
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold;
+}
