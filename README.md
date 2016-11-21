@@ -40,7 +40,7 @@ Here is a summary of what we did each day.
 3. Together like code-along, create the first wrapping component and include another component.
 4. Team up in groups of two. In these groups you will discuss and write all the code. How you do it is up to you, if you code together on one computer and then switch or discuss and code separately, whatever you think work the best. The first assignment is to code and style all the components so you have a dumb sketch of what you want your app to look like.
 
-[1]  ![Screen Shot 2016-11-21 at 08.59.45](/Users/a_thorell/Desktop/Screen Shot 2016-11-21 at 08.59.45.png)
+[1]  ![layout](/images/layout.png)
 
 ### DAY 2 – Empty state (on load), set up game start point, add images & assign images to cards
 
